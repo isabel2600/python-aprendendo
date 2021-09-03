@@ -1,4 +1,5 @@
 # python-aprendendo
+#estou aprendendo python
 Aprendendo sobre python
 
 ![Amazon_AWS-232F3E_style=for-the-badge logo=amazon-aws logoColor=white](https://user-images.githubusercontent.com/68034656/122946320-a63fac80-d34f-11eb-9064-01441ec41c23.png)
